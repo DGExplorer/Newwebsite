@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Dora's Page
 
-You can use the [editor on GitHub](https://github.com/DGExplorer/Newwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am new to using Github but excited to see what else I can add to make it more interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will have to put more thought to what I want to include on a public page.
 
 ### Markdown
 
